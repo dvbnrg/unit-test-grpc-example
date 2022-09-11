@@ -1,4 +1,4 @@
-module hello-grpc
+module unit-test-grpc-example
 
 go 1.19
 

@@ -6,7 +6,7 @@ import (
 	"log"
 	"time"
 
-	pb "hello-grpc/proto"
+	pb "unit-test-grpc-example/proto"
 
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials/insecure"
