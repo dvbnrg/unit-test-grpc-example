@@ -1,0 +1,3 @@
+bin
+proto/hello.pb.go
+proto/hello_grpc.pb.go

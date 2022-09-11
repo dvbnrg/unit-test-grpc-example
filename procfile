@@ -1,0 +1,4 @@
+server: bin/server
+client1: sleep 1; bin/client
+client2: sleep 1; bin/client
+client3: sleep 1; bin/client
